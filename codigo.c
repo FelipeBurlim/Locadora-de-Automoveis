@@ -196,7 +196,7 @@ int submenuClientes(){
 }
 
 void listarTodosCliente(){
-
+    
 }
 
 void listarCliente(){
