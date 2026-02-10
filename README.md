@@ -1,6 +1,33 @@
-#Locadora-de-Automoveis
-##Projeto prático em C
+# Car Rental System
+This is a management system designed for car rental companies, developed as a practical project for the APR2 course.
 
-##Uma aplicação para uma locadora de automóveis precisa gerenciar informações sobre os aluguéis de veículos realizados por seus clientes, bem cono armazenar os dados de cada cliente e de cada carro disponível para locação.
+## Table of Contents
+* [About the Project](#about-the-project)
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [How to Run](#how-to-run)
 
-##A aplicação utiliza arquivos para persistência dos dados. Em outras palavras, cada registro de Cliente, Veículo e Aluguel é armazenado em arquivo binário. Para os relatórios é utilizado arquivos textos. Foi utilizado estruturas dinâmicas alocados dinamicamente.
+## About the Project
+This project aims to automate the process of renting vehicles, managing customer data, and controlling the available fleet. It focuses on logic, data structures, and file handling.
+
+### Objective
+To provide a clean and efficient interface for administrators to handle daily rental operations.
+
+## Features
+* **Vehicle Management:** Register, edit, and remove cars from the database.
+* **Customer Registry:** Maintain a record of all clients and their rental history.
+* **Rental Control:** Track active rentals, return dates, and pricing.
+* **Data Persistence:** All information is saved in local files.
+
+## Technologies Used
+### Languages
+* **C Language:** Core logic and system architecture.
+
+### Tools and Environment
+* **Visual Studio Code:** Primary IDE.
+* **Git & GitHub:** Version control and repository hosting.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/FelipeBurlim/Locadora-de-Automoveis.git](https://github.com/FelipeBurlim/Locadora-de-Automoveis.git)
